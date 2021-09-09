@@ -1,6 +1,6 @@
 {
   "name": "package_npm_link_test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -18,5 +18,5 @@
   "dependencies": {
     "node": "^16.6.1"
   },
-  "yalcSig": "230a81cd53bcae8261e9b38d1c18c417"
+  "yalcSig": "97f55dbee34d41c0e03ad77c3b22ec46"
 }

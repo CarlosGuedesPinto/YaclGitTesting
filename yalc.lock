@@ -2,7 +2,7 @@
   "version": "v1",
   "packages": {
     "package_npm_link_test": {
-      "signature": "230a81cd53bcae8261e9b38d1c18c417",
+      "signature": "97f55dbee34d41c0e03ad77c3b22ec46",
       "file": true
     }
   }
