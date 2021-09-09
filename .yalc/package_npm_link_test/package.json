@@ -1,0 +1,22 @@
+{
+  "name": "package_npm_link_test",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "format": "prettier --write \"src/**/*.ts\"",
+    "lint": "tslint -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "files": [
+    "lib/**/*"
+  ],
+  "dependencies": {
+    "node": "^16.6.1"
+  },
+  "yalcSig": "230a81cd53bcae8261e9b38d1c18c417"
+}
