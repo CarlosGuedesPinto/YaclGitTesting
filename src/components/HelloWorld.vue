@@ -31,7 +31,7 @@
 </template>
 
 <script>
-import { Greeter } from 'package_npm_link_test'
+import { Greeter } from 'yalc_package_example'
 export default {
   name: 'HelloWorld',
   props: {
