@@ -4,6 +4,10 @@
     "package_npm_link_test": {
       "signature": "c3122ec7428a3db7e94d1987e7b24d52",
       "file": true
+    },
+    "yalc_package_example": {
+      "signature": "a7aa31af41c106e850541559236e17b5",
+      "file": true
     }
   }
 }

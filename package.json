@@ -11,7 +11,8 @@
     "core-js": "^3.6.5",
     "node": "^16.6.1",
     "package_npm_link_test": "file:.yalc/package_npm_link_test",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "yalc_package_example": "file:.yalc/yalc_package_example"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
